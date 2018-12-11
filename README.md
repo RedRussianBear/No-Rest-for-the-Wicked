@@ -1,5 +1,5 @@
 # No Rest for the Wicked
-## A Story from the Forty-First Millenium
+### A Story from the Forty-First Millenium
 
 Long is the arm of the Law of the Imperium, and harsh is its Justice. When a man crosses it, he is usually given three choices: immediate 
 execution, service in the penal legions, or coversion to a servitor. However, for those who are wary and can hear the footfalls of 
