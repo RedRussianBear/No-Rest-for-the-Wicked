@@ -2,7 +2,7 @@
 ### A Story from the Forty-First Millenium
 
 Long is the arm of the Law of the Imperium, and harsh is its Justice. When a man crosses it, he is usually given three choices: immediate 
-execution, service in the penal legions, or conversion to a servitor. However, for those who are wary and can hear the footfalls of 
+execution, service in the penal legions, or conversion to a servitor. But for those who are wary and can hear the footfalls of 
 approaching justice from afar, there is a fourth option -- run.
 
 While few in comparison to the trillion strong throng of mankind, many still manage to do just this, grabbing what belongings they can, 
