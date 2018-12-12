@@ -26,7 +26,7 @@ strangers meet, and put in motion events that will echo deep through the empty t
 
 First charted in the Thirty Fifth Millenium by a patrol squadron of the Imperial Navy after a missed warp jump, Pilgrim's Dusk was 
 largely unsettled until the past several decades. About a century ago a single warp-driven merchant ship, fleeing Ork pirates, 
-jettisoned its escape pods in the about 2AU from the system, with the survivors landing on the lone planet. About three thousand strong 
+jettisoned its escape pods about 2AU from the system, with the survivors landing on the lone planet. About three thousand strong 
 (from an original crew of eighteen thousand), they founded a rudimentary outpost on an island in the southern hemisphere at Port Arthur. 
 Over the next forty years they worked and multiplied, seeking to once again ascend to the heavens. It is in 59BP, numbering some ten 
 thousand that the castaways activated their first high power radio-antenna, broadcasting on all frequencies a call for help. 
