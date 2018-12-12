@@ -19,6 +19,11 @@ It is in one such winter, in one remote town, far beneath the thick blizzards an
 meet, and put in motion events that will echo deep through the empty tomb of space.
 
 ## Pilgrim's Dusk
+### History
 
+
+### Geography
 ![Pilgrim's Dusk](DuskMapAntique.gif)
 
+## The Brethren of the Reach
+![Flag of the Brethren of the Reach]("Flag of the Brethren of the Reach.svg")
