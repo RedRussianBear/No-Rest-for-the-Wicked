@@ -26,4 +26,4 @@ meet, and put in motion events that will echo deep through the empty tomb of spa
 ![Pilgrim's Dusk](DuskMapAntique.gif)
 
 ## The Brethren of the Reach
-![Flag of the Brethren of the Reach]("Flag of the Brethren of the Reach.svg")
+![Flag of the Brethren of the Reach](Flag%20of%20the%20Brethren%20of%20the%20Reach.svg)
