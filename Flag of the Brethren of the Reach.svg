@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -44,9 +44,9 @@
      inkscape:window-height="986"
      id="namedview35"
      showgrid="false"
-     inkscape:zoom="0.89776796"
-     inkscape:cx="563.10945"
-     inkscape:cy="302.22069"
+     inkscape:zoom="0.63481781"
+     inkscape:cx="316.77905"
+     inkscape:cy="397.40544"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
@@ -82,37 +82,26 @@
        style="fill:#000000;stroke-width:12.16303349" />
   </g>
   <g
-     id="g5022"
-     transform="translate(-1.9155327e-4,8.0314747e-5)">
-    <path
-       sodipodi:type="star"
-       style="fill:#ffffff;stroke-width:6"
-       id="path4202"
-       sodipodi:sides="8"
-       sodipodi:cx="3705"
-       sodipodi:cy="1950"
-       sodipodi:r1="294.22815"
-       sodipodi:r2="120.29835"
-       sodipodi:arg1="1.3990207"
-       sodipodi:arg2="1.7917198"
-       inkscape:flatsided="false"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 3755.293,2239.8979 -76.6541,-172.5233 -143.0651,123.1767 67.7898,-176.195 -188.2615,-14.0633 172.5233,-76.6541 -123.1767,-143.0651 176.195,67.7898 14.0633,-188.2615 76.6541,172.5233 143.0651,-123.1767 -67.7898,176.195 188.2615,14.0633 -172.5233,76.6541 123.1767,143.0651 -176.195,-67.7898 z"
-       transform="matrix(2.5177208,0.52845168,-0.40001442,2.4954388,-3591.9754,-4533.7275)" />
+     id="g826">
     <ellipse
        style="fill:none;stroke:#ffffff;stroke-width:27.57521057;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4204"
-       cx="4178.394"
-       cy="859.1806"
+       cx="4103.1138"
+       cy="842.69769"
        rx="2845.4985"
        ry="1047.8685"
-       transform="matrix(0.96055074,0.27810486,-0.28034808,0.95989842,-67.689666,-36.757874)" />
+       transform="matrix(0.96055072,0.27810485,-0.28034808,0.95989841,0,0)" />
     <circle
        r="81.695473"
-       cy="865.00732"
-       cx="1237.2007"
+       cy="865.00739"
+       cx="1237.2004"
        id="path5015"
        style="fill:#ffffff;stroke:#ffffff;stroke-width:16.60905075;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
+  <circle
+     style="fill:#b22234;fill-opacity:1;stroke:none;stroke-width:6.00944853;stroke-miterlimit:4;stroke-dasharray:6.0094488, 6.0094488;stroke-dashoffset:0;stroke-opacity:1"
+     id="path828"
+     cx="4956.1519"
+     cy="2290.2917"
+     r="540" />
 </svg>
