@@ -20,4 +20,5 @@ meet, and put in motion events that will echo deep through the empty tomb of spa
 
 ## Pilgrim's Dusk
 
+![Pilgrim's Dusk](DuskMapAntique.gif)
 
