@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1235"
+   height="650"
+   viewBox="0 0 7410 3900"
+   version="1.1"
+   id="svg33"
+   sodipodi:docname="Flag of the Brethren of the Reach.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="C:\Users\Misha Khrenov\Downloads\Flag of the Brethren of the Reach.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata39">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs37" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     id="namedview35"
+     showgrid="false"
+     inkscape:zoom="0.89776796"
+     inkscape:cx="563.10945"
+     inkscape:cy="302.22069"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg33" />
+  <g
+     id="g5013"
+     transform="translate(-67.689665,-36.757874)" />
+  <g
+     id="g4194">
+    <g
+       id="g4186">
+      <rect
+         style="fill:#b22234"
+         y="0"
+         x="0"
+         width="7410"
+         height="3900"
+         id="rect2" />
+      <rect
+         width="7110"
+         height="3600"
+         id="rect6"
+         style="fill:#ffffff;stroke-width:2.02785683"
+         x="150"
+         y="150" />
+    </g>
+    <rect
+       y="300"
+       x="300"
+       height="3300"
+       width="6810"
+       id="rect4188"
+       style="fill:#000000;stroke-width:12.16303349" />
+  </g>
+  <g
+     id="g5022"
+     transform="translate(-1.9155327e-4,8.0314747e-5)">
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;stroke-width:6"
+       id="path4202"
+       sodipodi:sides="8"
+       sodipodi:cx="3705"
+       sodipodi:cy="1950"
+       sodipodi:r1="294.22815"
+       sodipodi:r2="120.29835"
+       sodipodi:arg1="1.3990207"
+       sodipodi:arg2="1.7917198"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 3755.293,2239.8979 -76.6541,-172.5233 -143.0651,123.1767 67.7898,-176.195 -188.2615,-14.0633 172.5233,-76.6541 -123.1767,-143.0651 176.195,67.7898 14.0633,-188.2615 76.6541,172.5233 143.0651,-123.1767 -67.7898,176.195 188.2615,14.0633 -172.5233,76.6541 123.1767,143.0651 -176.195,-67.7898 z"
+       transform="matrix(2.5177208,0.52845168,-0.40001442,2.4954388,-3591.9754,-4533.7275)" />
+    <ellipse
+       style="fill:none;stroke:#ffffff;stroke-width:27.57521057;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4204"
+       cx="4178.394"
+       cy="859.1806"
+       rx="2845.4985"
+       ry="1047.8685"
+       transform="matrix(0.96055074,0.27810486,-0.28034808,0.95989842,-67.689666,-36.757874)" />
+    <circle
+       r="81.695473"
+       cy="865.00732"
+       cx="1237.2007"
+       id="path5015"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:16.60905075;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
