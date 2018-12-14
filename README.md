@@ -63,6 +63,6 @@ The Dominion Compact established *A Fraternal Association for the Furthering of 
 namely within the System of Pilgrim's Dusk*, or as it is more commonly known, *The Brethren of the Reach* a loose confederal government
 for the organization and further rule of Pilgrim's Dusk. Port Arthur would serve as the sole port of landing, and the site of annual 
 'Brethren Conclaves'. As de Morganne and Stubbs both preferred to have some distance from the established Port Arthur 'natives' and saw 
-potential for expansion on one of the nearby continents, a the newly established settlement of Suvla Bay would serve as a second capital, housing the day-to-day domestic administration.
+potential for expansion on one of the nearby continents, the newly established settlement of Suvla Bay was chosen to serve as a second capital, housing the day-to-day domestic administration.
 
 The Compact was brief and reads as follows:
