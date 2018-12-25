@@ -87,8 +87,8 @@ The Compact was brief and reads as follows:
 > affairs by a collective two-thirds vote. Each shall additionally select a chief officer to preside over their respective spheres in an 
 > executive capacity for the remainder of the year with the authority to carry out and enforce their acts.
 >
-> None of these bodies, separately or in congress, except by joint unanimous vote shall make any resolution abridging the following  
-> guarantees:
+> None of these bodies, separately or in congress, except by joint unanimous vote shall make any resolution abridging the following 
+> enumerated guarantees:
 > 
 > 1. No person shall be compelled to enter any form of service, except if ordered as payment for an overdue and onerous debt, 
 >    or unless required by an agent of the law in execution of their duties.
