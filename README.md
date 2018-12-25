@@ -63,6 +63,53 @@ The Dominion Compact established *A Fraternal Association for the Furthering of 
 namely within the System of Pilgrim's Dusk*, or as it is more commonly known, *The Brethren of the Reach* a loose confederal government
 for the organization and further rule of Pilgrim's Dusk. Port Arthur would serve as the sole port of landing, and the site of annual 
 'Brethren Conclaves'. As de Morganne and Stubbs both preferred to have some distance from the established Port Arthur 'natives' and saw 
-potential for expansion on one of the nearby continents, the newly established settlement of Suvla Bay was chosen to serve as a second capital, housing the day-to-day domestic administration.
+potential for expansion on one of the nearby continents, the newly established settlement of Suvla Bay was chosen to serve as a second 
+capital, housing the day-to-day domestic administration.
 
 The Compact was brief and reads as follows:
+
+> For the further organization of mutually beneficial terms within the system and upon the world of Pilgrim's Dusk this Fraternal 
+> Association of law-giving and enforcement. Said Association shall convene yearly at the close of the harvest season for a period of
+> one month to decide affairs. This annual conclave shall consist of:
+> 
+> 1. One representative for every settlement or township in excess of thirty thousand souls upon the world and its surrounding celestial
+>    bodies, selected by local vote, with an additional representative for every thirty thousand souls in excess.
+> 2. The captain of every starship in excess of ten thousand crew, with an additional officer for every further ten thousand crew in 
+>    excess, selected by the mechanisms of each vessel.
+> 3. A further representative for each of those organizations of tradesmen that are deemed necessary and crucial to the advancement of 
+>    this association on-world and in the void, with the list of qualifying organizations approved by a joint two-thirds vote of the 
+>    aforementioned representatives.
+>
+> These three bodies will henceforth be referred to as the Brethren on-World, the Brethren in the Void, and the Brethren Artisan 
+> respectively, and the Brethren in Congress collectively. A quorum of each shall consist of three-fourths of the members present. 
+> Each independently may make what resolutions and acts deemed necessary to advance the interests of this association and its people 
+> within their respective spheres by a three-fifths vote, and may make joint resolutions and acts respecting the entire sphere of 
+> affairs by a collective two-thirds vote. Each shall additionally select a chief officer to preside over their respective spheres in an 
+> executive capacity for the remainder of the year with the authority to carry out and enforce their acts.
+>
+> None of these bodies, separately or in congress, except by joint unanimous vote shall make any resolution abridging the following  
+> guarantees:
+> 
+> 1. No person shall be compelled to enter any form of service, except if ordered as payment for an overdue and onerous debt, 
+>    or unless required by an agent of the law in execution of their duties.
+> 2. No trade in forced labor or bound persons shall occur upon the planet surface of Pilgrim's Dusk, and no such service shall be 
+>    employed anywhere upon it.
+> 3. No person may ever be converted to the state of a servitor, and no trade in or employment of such beings shall occur upon the 
+>    planet surface of Pilgrim's Dusk.
+> 4. No person shall be compelled to host or supply agents of the law without proper and adequate compensation.
+> 5. The right of the people of this association, on-World or in the Void, to keep and bear arms shall not be abridged.
+> 6. All people of this association accused of a crime shall have the right to a prompt and public trial by their peers.
+> 7. No person of this association shall be compelled to enact a sentence upon another.
+> 8. Having entered into this association, no person may be stripped of their membership in it and the rights herein mentioned.
+> 9. No portion of this Compact shall be construed to indicate the full enumeration of rights held by any person, and all rights and 
+>    powers not granted herein exclusively to the Brethren in Congress are to be held by the people.
+> 
+> And so, for the promotion of amity and mutual interests we do consign ourselves to the terms of this Compact. May we perish in the 
+> Void should we fail to abide by it.
+> 
+> Ioan Svetlov, Chairman of the People's Council of Pilgrim's Dusk
+>
+> Artho Stubbs, Colonel, Captain of the Free Guardsman
+>
+> The Honourable Arlan, Vicomte de Morganne, Captain of the Dominion
+
