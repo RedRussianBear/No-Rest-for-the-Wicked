@@ -29,7 +29,7 @@ largely unsettled until the past several decades. About eighty years ago a singl
 jettisoned its escape pods about 2AU from the system, with the survivors landing on the lone planet. About three thousand strong 
 (from an original crew of eighteen thousand), they founded a rudimentary outpost on an island in the southern hemisphere at Port Arthur. 
 Over the next forty years they worked and multiplied, seeking to once again ascend to the heavens. It was twenty nine years Before 
-Present, that, numbering some ten thousand, the castaways activated their first high power radio-antenna, broadcasting on all 
+Present, that, numbering some thirty thousand, the castaways activated their first high power radio-antenna, broadcasting on all 
 frequencies a call for help. 
 
 'Help' came much sooner than expected. Less than a year later, two vessels, one a renegade noble-turned-pirate, the other a deserted 
@@ -51,7 +51,7 @@ de Morganne or Artho's crews in order to seek passage off-world, if they so desi
 second outpost at Suvla Bay, and those who wished and were permitted to stay began developing the town, and expanding homesteads into
 the interior of the continent.
 
-The world now supports a quarter million souls, most in Port Arthur and Suvla Bay, but many also spread across smaller outposts and 
+The world now supports a half million souls, most in Port Arthur and Suvla Bay, but many also spread across smaller outposts and 
 towns, and in lone homesteads. With the crews of de Morganne and Stubbs and further arrivals since, it is estimated that more than 80% 
 of the people of Pilgrim's Dusk were born off-world. Daily life for most is either farming, ranching, or mining, with further work in 
 commerce and light industry in the large settlements, but all coupled with the lawlessness and daily risk of living on a world of 
@@ -72,8 +72,8 @@ The Compact was brief and reads as follows:
 > Association of law-giving and enforcement. Said Association shall convene yearly at the close of the harvest season for a period of
 > one month to decide affairs. This annual conclave shall consist of:
 > 
-> 1. One representative for every settlement or township in excess of thirty thousand souls upon the world and its surrounding celestial
->    bodies, selected by local vote, with an additional representative for every thirty thousand souls in excess.
+> 1. One representative for every settlement or township in excess of twenty thousand souls upon the world and its surrounding celestial
+>    bodies, selected by local vote, with an additional representative for every twenty thousand souls in excess.
 > 2. The captain of every starship in excess of ten thousand crew, with an additional officer for every further ten thousand crew in 
 >    excess, selected by the mechanisms of each vessel.
 > 3. A further representative for each of those organizations of tradesmen that are deemed necessary and crucial to the advancement of 
@@ -109,7 +109,21 @@ The Compact was brief and reads as follows:
 > 
 > Ioan Svetlov, Chairman of the People's Council of Pilgrim's Dusk
 >
-> Artho Stubbs, Colonel, Captain of the Free Guardsman
+> Artho Stubbs, Colonel of the Free Guardsmen
 >
-> The Honourable Arlan, Vicomte de Morganne, Captain of the Dominion
+> The Honourable Arlan, Vicomte de Morganne, Captain of the *Dominion*
 
+Since those times, as both settlements and void endeavors have developed, the political system has grown tremendously. At the time of 
+the signing, the Brethren on-World consisted solely of Svetlov himself, and the Brethren in the Void were Stubbs and de Morganne alone.
+In a few short years though, due to new settlement on the Dusk and additional vessels joining the Compact, both had grown to fairly 
+large bodies, and the first groups to receive Brethren Artisan status, namely the Honorable Association of Shipwrights, la Companie de
+Transporte à Grande Vitesse, the Suvla Bay Miners Guild, the Gunsmiths Concern, and the Astropath Union.
+
+As of the moment, there are 25 representatives of the Brethren on-World, 13 captains and officers of the Brethren in the Void, and 6 
+Brethren Artisan organizations. The three significant voting factions are the Frontiersmen, the Arthurians, and the de Morgannists 
+favoring more distributed democracy and expansion, urbanization and industrialization, and privateering and Void 
+investments respectively.
+
+### Snake River Valley
+
+Located in the midst of the western frontier mountains, 
