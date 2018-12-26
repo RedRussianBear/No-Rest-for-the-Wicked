@@ -20,7 +20,7 @@ strangers meet, and put in motion events that will echo deep through the empty t
 
 ## Pilgrim's Dusk
 ### Geography
-![Pilgrim's Dusk](DuskMapAntique.gif)
+![Pilgrim's Dusk](DuskMapAnnotated.svg)
 
 ### History
 
