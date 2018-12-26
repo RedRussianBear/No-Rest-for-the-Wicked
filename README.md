@@ -125,5 +125,11 @@ favoring more distributed democracy and expansion, urbanization and industrializ
 investments respectively.
 
 ### Snake River Valley
+![Snake River Valley](Snake%20River%20Valley%20Close.PNG)
 
-Located in the midst of the western frontier mountains, 
+Located in the midst of the western frontier mountains, the Snake River Valley follows on the banks of its namesake river, providing
+highly fertile soil and decent irrigation for ranching and small-scale farming. The valley however remains sparsely populated, as there
+is no railway or navigable water connection. Travelers must take the often dangerous mountain passes, which are blocked almost entirely 
+by snow during the long winter. The population is centered in the small town of Tombvale, which boasts a post office, congregation, and
+inn, and spread amongst the various ranches and farms on either side of the river. In recent years a new mining venture has sprung up
+extracting copper on one of the north-west ridges. The locals are amicable, but keep to themselves.
